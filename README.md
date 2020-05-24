@@ -3,4 +3,4 @@ This is my Flutter Portfolio, This web app is completely made in Flutter, you ca
 
 # This is the link of hosted website:
 
-![My Portfolio](https://manav-motwani.github.io/Portfolio/) 
+# https://manav-motwani.github.io/Portfolio/
